@@ -1,0 +1,22 @@
+{
+  "name": "pd-app",
+  "version": "1.0.0",
+  "description": "A simple server-side application for database support.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pd-app/pd-app-js.git"
+  },
+  "author": "Piotr & Daniel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pd-app/pd-app-js/issues"
+  },
+  "homepage": "https://github.com/pd-app/pd-app-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
