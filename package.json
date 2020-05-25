@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/pd-app/pd-app-js#readme",
   "dependencies": {
+    "cookie-session": "^1.4.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1"
   }
 }
